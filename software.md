@@ -1,7 +1,6 @@
 # Software
 [[_TOC_]]
 
-
 ## 🖥️⚙️ Command-Line Applications
 
 ### 📚 Documentation Tools
@@ -37,10 +36,11 @@
 ### 🖥️💻 Virtualization
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS in a Docker container using KVM for near-native performance.
 - [far2l](https://github.com/elfmz/far2l) – Modernized port of the classic FAR Manager with terminal and GUI interfaces for Linux and macOS.
+
 ### 💾 Legacy Software Ports
 - [123elf](https://github.com/taviso/123elf) – Native Linux port of Lotus 1-2-3 spreadsheet classic.
-### 📝 Markdown Editors
 
+### 📝 Markdown Editors
 - [MarkText](https://github.com/marktext/marktext) – Cross-platform Markdown editor with live preview and minimal UI, built on Electron.
 - [Markably](https://app.markably.io/) – Web-based Markdown editor with live preview and distraction-free mode.
 - [Zettlr](https://www.zettlr.com/) – Cross-platform Markdown editor geared toward academic writing.
@@ -53,6 +53,7 @@
 
 ### 🎛️ Audio Tools
 - [Soundux](https://github.com/Soundux/Soundux) – Cross-platform soundboard routing audio to specific applications.
+
 ### 🌐📡 Networking Utilities
 - [wgcf](https://github.com/ViRb3/wgcf) – Unofficial CLI for Cloudflare Warp that generates WireGuard profiles. `wgcf register && wgcf generate` produces a config ready for `wg-quick`.
 - [bombardier](https://github.com/codesenberg/bombardier) – Fast HTTP(S) benchmarking tool written in Go for stress testing APIs and websites.
@@ -63,6 +64,7 @@
 
 ### 🛡️ Security Tools
 - [Snort](https://www.snort.org/) – Open-source network intrusion detection and prevention system.
+
 ### 🗃️ Data Processing Tools
 - [Miller](https://github.com/johnkerl/miller) – Command-line Swiss army knife for CSV, TSV and JSON data manipulation.
 - [fastgron](https://github.com/adamritter/fastgron) – High-performance JSON to GRON converter built with simdjson.
@@ -74,8 +76,8 @@
 - [PerfView](https://github.com/microsoft/perfview) – Windows performance analysis tool with CPU and memory profiling.
 - [Speedscope](https://www.speedscope.app/) – Interactive flamegraph viewer for performance profiles.
 - [pigz](https://github.com/madler/pigz) – Parallel implementation of gzip that utilizes multiple CPU cores for faster compression.
-## ☁️🛠️ Web Services & Self-Hosted Platforms
 
+## ☁️🛠️ Web Services & Self-Hosted Platforms
 ### 🚀🔄 Platform-as-a-Service & App Deployment
 - [Coolify](https://coolify.io/) – Open-source PaaS you can install on your own server under a minute. Provides one-click deployments for Docker-based applications, automated SSL, database provisioning, and built-in CI/CD pipelines as a free Heroku/Netlify/Vercel alternative.
 - [PocketBase](https://pocketbase.io/) – Open source backend in a single Go binary providing realtime database, auth and file storage.
@@ -96,9 +98,9 @@
 - [LosslessCut](https://mifi.no/losslesscut/) – Simple cross-platform tool for quick, lossless trimming of video and audio files.
 - [VERT.sh](https://vert.sh/) – Privacy-focused, open-source web app for converting images, audio, video and documents. All non-video conversions run client-side (no upload), while videos use fast servers; no ads or size limits.
 - [Squoosh](https://squoosh.app/) – Progressive web app that compresses images locally in the browser using modern codecs.
+
 ### 📰 RSS & Feed Readers
 - [FreshRSS](https://freshrss.org/) – Lightweight self-hosted aggregator for RSS and Atom feeds.
-
 - [TT-RSS](https://tt-rss.org/) – Web-based news feed aggregator you can self-host.
 - [Fluent Reader](https://github.com/yang991178/fluent-reader) – Modern cross-platform RSS reader for desktops.
 - [Stringer](https://github.com/stringer-rss/stringer) – Self-hosted, anti-social RSS reader built on Ruby on Rails.
@@ -188,41 +190,12 @@
 
 ### 🛠️ Programming Languages & Compilers
 - [SectorC](https://github.com/xorvoid/sectorc) – 512-byte x86 boot sector C compiler written in assembly.
-## 🗄️🛢️ Database Engines
 
+## 🗄️🛢️ Database Engines
 - [DuckDB](https://github.com/duckdb/duckdb) – In-process analytical SQL database optimized for fast local queries without a server.
 
-## 📚🛠️ Libraries & Frameworks
-
-### 💻🖥️ JavaScript Components
-- [Xterm.js](https://xtermjs.org/) – Browser-based terminal emulator powering web apps like VS Code.
-- [Day.js](https://day.js.org/) – Tiny JavaScript library providing a Moment.js-compatible API for parsing and formatting dates.
-- [DOMPurify](https://github.com/cure53/DOMPurify) – DOM-only XSS sanitizer for HTML, MathML and SVG.
-- [Zod](https://github.com/colinhacks/zod) – TypeScript-first schema validation with static inference.
-- [background-removal-js](https://github.com/imgly/background-removal-js) – Remove image backgrounds in-browser or Node.js.
-- [arwes](https://github.com/arwes/arwes) – Futuristic sci-fi UI framework for web apps.
-
-### 🌍🗣️ Natural Language Processing
-### 🔊 Audio Libraries
-- [PortAudio](https://github.com/PortAudio/portaudio) – Cross-platform library for real-time audio input and output.
-- [argos-translate](https://github.com/argosopentech/argos-translate) – Offline machine translation library written in Python.
-
-### ⚙️ C++ Libraries
-- [spdlog](https://github.com/gabime/spdlog) – Fast C++ logging library with a simple API.
-- [fmt](https://github.com/fmtlib/fmt) – Modern formatting library for C++.
-- [RxCpp](https://github.com/ReactiveX/RxCpp) – Reactive Extensions for composing asynchronous event streams.
-- [simdjson](https://github.com/simdjson/simdjson) – SIMD-accelerated JSON parser achieving gigabytes per second.
-- [Cap'n Proto](https://capnproto.org/) – Serialization format and RPC framework designed for speed.
-- [Protocol Buffers](https://github.com/protocolbuffers/protobuf) – Google's binary data interchange with code generation.
-- [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) – Header-only C++ library for compile-time regex parsing.
-- [aitoolkit](https://github.com/linkdd/aitoolkit) – Header-only C++ library for building game AI (FSM, behavior trees, GOAP).
-
-- [TypeID](https://github.com/jetpack-io/typeid) – Generates sortable unique identifiers with type prefixes.
-
 ## 🎮 Games & Emulators
-
 - [webrcade](https://github.com/webrcade/webrcade) – Feed-driven retro gaming platform that runs classic games in the browser.
 - [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) – Accurate and portable Sega 8/16‑bit emulator.
-
 - [QuickParty.Games](https://quickparty.games/) – Collection of instant multiplayer browser party games.
 - [The Password Game](https://neal.fun/password-game/) – Puzzle where evolving password rules lead to absurd challenges.
