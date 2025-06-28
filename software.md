@@ -25,6 +25,21 @@
 - [Yaak](https://yaak.app/) – Fast, offline-first, Git-friendly API client for REST, GraphQL, WebSocket, SSE and gRPC endpoints. Store requests as plain-text files for version control, encrypt secrets locally, and replay or share them from a desktop GUI.
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) – Send HTTP requests directly from VS Code and inspect responses without leaving the editor.
 
+### 🖼️📊 Diagramming & Drawing
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) – Electron-based diagrams.net app that works offline for creating flowcharts and architecture sketches.
+
+### 🗄️📂 File Managers
+- [far2l](https://github.com/elfmz/far2l) – Modernized port of the classic FAR Manager with terminal and GUI interfaces for Linux and macOS.
+
+### 📝 Markdown Editors
+- [MarkText](https://github.com/marktext/marktext) – Cross-platform Markdown editor with live preview and minimal UI, built on Electron.
+
+### 🌐📡 Networking Utilities
+- [wgcf](https://github.com/ViRb3/wgcf) – Unofficial CLI for Cloudflare Warp that generates WireGuard profiles. `wgcf register && wgcf generate` produces a config ready for `wg-quick`.
+- [bombardier](https://github.com/codesenberg/bombardier) – Fast HTTP(S) benchmarking tool written in Go for stress testing APIs and websites.
+- [dasel](https://github.com/TomWright/dasel) – Query and update JSON, YAML, TOML, XML and CSV data from the command line using a simple selector syntax.
+- [wttr.in](https://github.com/chubin/wttr.in) – Curl-friendly weather forecast service; run `curl wttr.in` for an instant report.
+
 ## ☁️🛠️ Web Services & Self-Hosted Platforms
 
 ### 🚀🔄 Platform-as-a-Service & App Deployment
@@ -38,6 +53,20 @@
 
 ### 🧾🔄 File Conversion & Processing
 - [VERT.sh](https://vert.sh/) – Privacy-focused, open-source web app for converting images, audio, video and documents. All non-video conversions run client-side (no upload), while videos use fast servers; no ads or size limits.
+
+### 🏠🔌 Home Automation
+- [Gladys Assistant](https://gladysassistant.com/) – Privacy-first open-source home assistant you can self-host to control smart devices and automate routines.
+- [Frigate](https://github.com/blakeblackshear/frigate) – Local NVR for Home Assistant with real-time object detection using TensorFlow and OpenCV.
+
+### 💻📂 Git Hosting
+- [soft-serve](https://github.com/charmbracelet/soft-serve) – Minimal Git server you operate from the command line, offering a simple TUI for browsing repositories.
+- [Gitea](https://gitea.io/en-us/) – Lightweight community-managed alternative to GitHub for running your own code hosting platform.
+- [gogs](https://gogs.io/) – Compact Go-based Git service that runs on low-resource servers with a familiar web interface.
+
+### 🔗🛠️ Developer Tools
+- [curlconverter](https://curlconverter.com/) – Converts `curl` commands into code snippets for languages like Python, JavaScript and Go.
+- [BookStack](https://www.bookstackapp.com/) – Self-hosted wiki and knowledge base platform for organising documentation.
+- [rss-proxy](https://github.com/damoeb/rss-proxy) – Generate RSS or Atom feeds for almost any website by analyzing its static HTML structure.
 
 ### 🏛️📊 Transparency & Monitoring
 - [Capitol Trades](https://www.capitoltrades.com/) – Free platform tracking U.S. Congress stock transactions. Browse and filter members’ buy/sell history by party, committee or issuer, and view aggregated charts of recent trading volume to spot potential conflicts of interest.
@@ -85,3 +114,6 @@
 
 ### 💻🖥️ JavaScript Components
 - [Xterm.js](https://xtermjs.org/) – Browser-based terminal emulator powering web apps like VS Code.
+
+### 🌍🗣️ Natural Language Processing
+- [argos-translate](https://github.com/argosopentech/argos-translate) – Offline machine translation library written in Python.
