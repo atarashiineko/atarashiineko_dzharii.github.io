@@ -45,6 +45,11 @@
 - [Markably](https://app.markably.io/) – Web-based Markdown editor with live preview and distraction-free mode.
 - [Zettlr](https://www.zettlr.com/) – Cross-platform Markdown editor geared toward academic writing.
 - [ghostwriter](https://ghostwriter.kde.org/) – Minimalist Markdown editor with focus mode and live preview.
+- [Zim](https://zim-wiki.org/) – Desktop wiki that stores notes in plain text files with wiki-style links.
+- [Obsidian](https://obsidian.md/) – Markdown knowledge base app with local graph view and extensive plugins.
+- [Logseq](https://logseq.com/) – Open-source outliner for managing notes and tasks in plain text.
+- [Dendron](https://www.dendron.so/) – Hierarchical note-taking extension for VS Code.
+- [TiddlyRoam](https://tiddlyroam.org/) – Self-contained wiki notebook inspired by Roam Research.
 
 ### 🎛️ Audio Tools
 - [Soundux](https://github.com/Soundux/Soundux) – Cross-platform soundboard routing audio to specific applications.
@@ -98,6 +103,12 @@
 - [Fluent Reader](https://github.com/yang991178/fluent-reader) – Modern cross-platform RSS reader for desktops.
 - [Stringer](https://github.com/stringer-rss/stringer) – Self-hosted, anti-social RSS reader built on Ruby on Rails.
 - [CommaFeed](https://github.com/Athou/commafeed) – Google Reader inspired self-hosted feed reader with multiple layouts.
+- [Nextcloud News](https://github.com/nextcloud/news) – RSS/Atom aggregator app for Nextcloud.
+- [Yarr](https://github.com/nkanaev/yarr) – Self-hosted RSS reader with web and terminal interfaces.
+- [selfoss](https://github.com/fossar/selfoss) – Multipurpose PHP feed reader and aggregator.
+- [wReader](https://github.com/googlearchive/wReader-app) – Minimal Chrome app for reading web feeds offline.
+- [Liferea](https://github.com/lwindolf/liferea) – GTK-based desktop feed reader for Linux.
+- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) – Generates RSS feeds for sites lacking them.
 
 ### 🏠🔌 Home Automation
 - [Gladys Assistant](https://gladysassistant.com/) – Privacy-first open-source home assistant for controlling smart devices.
@@ -115,6 +126,11 @@
 - [rss-proxy](https://github.com/damoeb/rss-proxy) – Generate RSS or Atom feeds for almost any website by analyzing its static HTML structure.
 - [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – Visualize JSON structures as interactive graphs right in the browser.
 - [Erlog](https://github.com/Nevin1901/erlog) – Minimalist log collector for forwarding structured logs to a central service.
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) – Monitors websites for content changes and sends notifications.
+- [oidc-debugger](https://github.com/nbarbettini/oidc-debugger) – Web tool for testing OAuth and OpenID Connect flows.
+- [IdentityServer](https://github.com/DuendeSoftware/IdentityServer) – Flexible OpenID Connect and OAuth framework for ASP.NET Core.
+- [toapi-search](https://github.com/toapi/toapi-search) – Build custom search APIs with the Toapi web scraping framework.
+- [CloudQuery](https://github.com/t9tio/cloudquery) – Turns websites into APIs via visual scraping rules.
 
 ### 🏛️📊 Transparency & Monitoring
 - [Capitol Trades](https://www.capitoltrades.com/) – Free platform tracking U.S. Congress stock transactions. Browse and filter members’ buy/sell history by party, committee or issuer, and view aggregated charts of recent trading volume to spot potential conflicts of interest.
@@ -148,6 +164,10 @@
 ### 🗃️🔎 Database Tools
 - [SQLite File Format Viewer](https://sqlite-internal.pages.dev/#page=10) – Web-based tool for inspecting SQLite database internals. Upload a `.sqlite` file or use a demo DB to explore page structures, B-tree layouts, freelist pages and WAL entries via clickable diagrams.
 
+### 🗺️ Map Tools
+- [Overpass Turbo](https://overpass-turbo.eu/) – Web-based interface for crafting and running Overpass API queries on OpenStreetMap data.
+- [flatdraw](https://github.com/diogocapela/flatdraw) – Simple React canvas app for quick drawings with a responsive UI.
+
 ## 📟🔌 Device & Embedded Projects
 
 ### 🍓📡 Raspberry Pi Projects
@@ -177,6 +197,10 @@
 ### 💻🖥️ JavaScript Components
 - [Xterm.js](https://xtermjs.org/) – Browser-based terminal emulator powering web apps like VS Code.
 - [Day.js](https://day.js.org/) – Tiny JavaScript library providing a Moment.js-compatible API for parsing and formatting dates.
+- [DOMPurify](https://github.com/cure53/DOMPurify) – DOM-only XSS sanitizer for HTML, MathML and SVG.
+- [Zod](https://github.com/colinhacks/zod) – TypeScript-first schema validation with static inference.
+- [background-removal-js](https://github.com/imgly/background-removal-js) – Remove image backgrounds in-browser or Node.js.
+- [arwes](https://github.com/arwes/arwes) – Futuristic sci-fi UI framework for web apps.
 
 ### 🌍🗣️ Natural Language Processing
 ### 🔊 Audio Libraries
@@ -188,8 +212,17 @@
 - [fmt](https://github.com/fmtlib/fmt) – Modern formatting library for C++.
 - [RxCpp](https://github.com/ReactiveX/RxCpp) – Reactive Extensions for composing asynchronous event streams.
 - [simdjson](https://github.com/simdjson/simdjson) – SIMD-accelerated JSON parser achieving gigabytes per second.
+- [Cap'n Proto](https://capnproto.org/) – Serialization format and RPC framework designed for speed.
+- [Protocol Buffers](https://github.com/protocolbuffers/protobuf) – Google's binary data interchange with code generation.
+- [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) – Header-only C++ library for compile-time regex parsing.
+- [aitoolkit](https://github.com/linkdd/aitoolkit) – Header-only C++ library for building game AI (FSM, behavior trees, GOAP).
+
+- [TypeID](https://github.com/jetpack-io/typeid) – Generates sortable unique identifiers with type prefixes.
 
 ## 🎮 Games & Emulators
 
 - [webrcade](https://github.com/webrcade/webrcade) – Feed-driven retro gaming platform that runs classic games in the browser.
 - [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) – Accurate and portable Sega 8/16‑bit emulator.
+
+- [QuickParty.Games](https://quickparty.games/) – Collection of instant multiplayer browser party games.
+- [The Password Game](https://neal.fun/password-game/) – Puzzle where evolving password rules lead to absurd challenges.

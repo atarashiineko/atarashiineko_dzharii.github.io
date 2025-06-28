@@ -43,16 +43,16 @@ blog/<file.md>
 - [x] 2023-06-08-links-from-my-inbox.md
 - [x] 2023-06-28-links-from-my-inbox.md
 - [x] 2023-08-01-links-from-my-inbox.md
-- [ ] 2023-08-04-links-from-my-inbox.md
-- [ ] 2023-08-05-links-from-my-inbox.md
-- [ ] 2023-08-13-links-from-my-inbox.md
-- [ ] 2023-09-24-links-from-my-inbox.md
-- [ ] 2023-10-03-links-from-my-inbox.md
-- [ ] 2023-11-02-links-from-my-inbox.md
-- [ ] 2023-11-03-links-from-my-inbox.md
-- [ ] 2023-12-15-links-from-my-inbox.md
-- [ ] 2023-12-25-links-from-my-inbox.md
-- [ ] 2024-01-25-links-from-my-inbox.md
+- [x] 2023-08-04-links-from-my-inbox.md
+- [x] 2023-08-05-links-from-my-inbox.md
+- [x] 2023-08-13-links-from-my-inbox.md
+- [x] 2023-09-24-links-from-my-inbox.md
+- [x] 2023-10-03-links-from-my-inbox.md
+- [x] 2023-11-02-links-from-my-inbox.md
+- [x] 2023-11-03-links-from-my-inbox.md
+- [x] 2023-12-15-links-from-my-inbox.md
+- [x] 2023-12-25-links-from-my-inbox.md
+- [x] 2024-01-25-links-from-my-inbox.md
 - [ ] 2024-02-08-links-from-my-inbox.md
 - [ ] 2024-02-24-links-from-my-inbox.md
 - [ ] 2024-03-25-links-from-my-inbox.md
