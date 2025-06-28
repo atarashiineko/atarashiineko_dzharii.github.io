@@ -53,16 +53,16 @@ blog/<file.md>
 - [x] 2023-12-15-links-from-my-inbox.md
 - [x] 2023-12-25-links-from-my-inbox.md
 - [x] 2024-01-25-links-from-my-inbox.md
-- [ ] 2024-02-08-links-from-my-inbox.md
-- [ ] 2024-02-24-links-from-my-inbox.md
-- [ ] 2024-03-25-links-from-my-inbox.md
-- [ ] 2024-06-09-links-from-my-inbox.md
-- [ ] 2024-08-06-links-from-my-inbox.md
-- [ ] 2024-08-25-links-from-my-inbox.md
-- [ ] 2024-08-30-links-from-my-inbox.md
-- [ ] 2024-09-01-links-from-my-inbox.md
-- [ ] 2024-09-15-links-from-my-inbox.md
-- [ ] 2024-10-13-links-from-my-inbox.md
+- [x] 2024-02-08-links-from-my-inbox.md
+- [x] 2024-02-24-links-from-my-inbox.md
+- [x] 2024-03-25-links-from-my-inbox.md
+- [x] 2024-06-09-links-from-my-inbox.md
+- [x] 2024-08-06-links-from-my-inbox.md
+- [x] 2024-08-25-links-from-my-inbox.md
+- [x] 2024-08-30-links-from-my-inbox.md
+- [x] 2024-09-01-links-from-my-inbox.md
+- [x] 2024-09-15-links-from-my-inbox.md
+- [x] 2024-10-13-links-from-my-inbox.md
 - [ ] 2024-11-16-links-from-my-inbox.md
 - [ ] 2024-11-24-links-from-my-inbox.md
 - [ ] 2024-12-01-links-from-my-inbox.md
