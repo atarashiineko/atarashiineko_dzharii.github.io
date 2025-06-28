@@ -20,6 +20,7 @@
 - [Sorted³](https://www.sortedapp.com/) – Scheduling to-do list app that auto-generates daily plans.
 - [Org mode](https://orgmode.org/) – Plain-text productivity system for Emacs with outlines and agenda.
 - [Plan](https://getplan.co/) – Aggregates calendars and tasks from multiple services into one dashboard.
+- [ScriptKit](https://www.scriptkit.com/) – Open-source toolkit to launch scripts and automate developer workflows.
 
 ### 🔧🔌 API Clients
 - [Yaak](https://yaak.app/) – Fast, offline-first, Git-friendly API client for REST, GraphQL, WebSocket, SSE and gRPC endpoints. Store requests as plain-text files for version control, encrypt secrets locally, and replay or share them from a desktop GUI.
@@ -27,23 +28,36 @@
 
 ### 🖼️📊 Diagramming & Drawing
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) – Electron-based diagrams.net app that works offline for creating flowcharts and architecture sketches.
+- [d2](https://github.com/terrastruct/d2) – Diagram scripting language that turns text files into professional diagrams.
 
 ### 🗄️📂 File Managers
+### 🖥️💻 Virtualization
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS in a Docker container using KVM for near-native performance.
 - [far2l](https://github.com/elfmz/far2l) – Modernized port of the classic FAR Manager with terminal and GUI interfaces for Linux and macOS.
-
 ### 📝 Markdown Editors
 - [MarkText](https://github.com/marktext/marktext) – Cross-platform Markdown editor with live preview and minimal UI, built on Electron.
+- [Markably](https://app.markably.io/) – Web-based Markdown editor with live preview and distraction-free mode.
 
+### 🎛️ Audio Tools
+- [Soundux](https://github.com/Soundux/Soundux) – Cross-platform soundboard routing audio to specific applications.
 ### 🌐📡 Networking Utilities
 - [wgcf](https://github.com/ViRb3/wgcf) – Unofficial CLI for Cloudflare Warp that generates WireGuard profiles. `wgcf register && wgcf generate` produces a config ready for `wg-quick`.
 - [bombardier](https://github.com/codesenberg/bombardier) – Fast HTTP(S) benchmarking tool written in Go for stress testing APIs and websites.
 - [dasel](https://github.com/TomWright/dasel) – Query and update JSON, YAML, TOML, XML and CSV data from the command line using a simple selector syntax.
 - [wttr.in](https://github.com/chubin/wttr.in) – Curl-friendly weather forecast service; run `curl wttr.in` for an instant report.
+- [Matterbridge](https://github.com/42wim/matterbridge) – Bridges messages between Slack, Discord, Matrix and other chat platforms via a single binary.
+- [sharing](https://github.com/parvardegr/sharing) – Simple CLI to share files or directories over HTTP for quick transfer to mobile devices.
 
+### 🗜️ Compression Tools
+### 📈🔬 Profiling & Benchmarking
+- [PerfView](https://github.com/microsoft/perfview) – Windows performance analysis tool with CPU and memory profiling.
+- [Speedscope](https://www.speedscope.app/) – Interactive flamegraph viewer for performance profiles.
+- [pigz](https://github.com/madler/pigz) – Parallel implementation of gzip that utilizes multiple CPU cores for faster compression.
 ## ☁️🛠️ Web Services & Self-Hosted Platforms
 
 ### 🚀🔄 Platform-as-a-Service & App Deployment
 - [Coolify](https://coolify.io/) – Open-source PaaS you can install on your own server under a minute. Provides one-click deployments for Docker-based applications, automated SSL, database provisioning, and built-in CI/CD pipelines as a free Heroku/Netlify/Vercel alternative.
+- [PocketBase](https://pocketbase.io/) – Open source backend in a single Go binary providing realtime database, auth and file storage.
 
 ### 🌐📄 Static Site Hosting
 - [GitHub Pages](https://pages.github.com/) – Build and host static websites straight from your GitHub repository.
@@ -52,10 +66,16 @@
 - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/) – Web service that guides you through selecting Windows Setup settings (partitions, locale, user accounts, drivers) and outputs a complete `autounattend.xml` file to automate clean installations on Windows 10/11.
 
 ### 🧾🔄 File Conversion & Processing
+### 🎞️ Video Editing
+- [LosslessCut](https://mifi.no/losslesscut/) – Simple cross-platform tool for quick, lossless trimming of video and audio files.
 - [VERT.sh](https://vert.sh/) – Privacy-focused, open-source web app for converting images, audio, video and documents. All non-video conversions run client-side (no upload), while videos use fast servers; no ads or size limits.
+- [Squoosh](https://squoosh.app/) – Progressive web app that compresses images locally in the browser using modern codecs.
+### 📰 RSS & Feed Readers
+- [FreshRSS](https://freshrss.org/) – Lightweight self-hosted aggregator for RSS and Atom feeds.
 
 ### 🏠🔌 Home Automation
-- [Gladys Assistant](https://gladysassistant.com/) – Privacy-first open-source home assistant you can self-host to control smart devices and automate routines.
+- [Gladys Assistant](https://gladysassistant.com/) – Privacy-first open-source home assistant for controlling smart devices.
+
 - [Frigate](https://github.com/blakeblackshear/frigate) – Local NVR for Home Assistant with real-time object detection using TensorFlow and OpenCV.
 
 ### 💻📂 Git Hosting
@@ -67,12 +87,16 @@
 - [curlconverter](https://curlconverter.com/) – Converts `curl` commands into code snippets for languages like Python, JavaScript and Go.
 - [BookStack](https://www.bookstackapp.com/) – Self-hosted wiki and knowledge base platform for organising documentation.
 - [rss-proxy](https://github.com/damoeb/rss-proxy) – Generate RSS or Atom feeds for almost any website by analyzing its static HTML structure.
+- [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – Visualize JSON structures as interactive graphs right in the browser.
+- [Erlog](https://github.com/Nevin1901/erlog) – Minimalist log collector for forwarding structured logs to a central service.
 
 ### 🏛️📊 Transparency & Monitoring
 - [Capitol Trades](https://www.capitoltrades.com/) – Free platform tracking U.S. Congress stock transactions. Browse and filter members’ buy/sell history by party, committee or issuer, and view aggregated charts of recent trading volume to spot potential conflicts of interest.
 
 ### 🧠🖼️ AI Tools
 - [slidehero.ai](https://www.slidehero.ai/) – AI-powered slide generator: paste your outline or bullet points and instantly produce formatted PowerPoint or Google Slides decks with layouts and graphics tailored to your content.
+- [imaginAIry](https://github.com/brycedrennan/imaginAIry) – Python tool for generating images with Stable Diffusion from the command line.
+- [Riffusion](https://www.riffusion.com/about) – Creates music by running Stable Diffusion on spectrograms; open source at [riffusion/riffusion](https://github.com/riffusion/riffusion).
 
 ## 🌐🧩 Browser Extensions & Tools
 
@@ -90,6 +114,8 @@
 - [Fluentsubs](https://app.fluentsubs.com/exercises/daily) – Web app offering daily language exercises using real-world video subtitles. Watch a short clip and fill in blanks to practice comprehension and vocabulary in context.
 
 ## 🧪🔍 Interactive Explorers
+### 🧱 3D Modeling Tools
+- [DSLCad](https://github.com/DSchroer/dslcad) – Lightweight language and interpreter for building 3D models.
 
 ### 🗃️🔎 Database Tools
 - [SQLite File Format Viewer](https://sqlite-internal.pages.dev/#page=10) – Web-based tool for inspecting SQLite database internals. Upload a `.sqlite` file or use a demo DB to explore page structures, B-tree layouts, freelist pages and WAL entries via clickable diagrams.
@@ -101,6 +127,7 @@
 
 ### 📷🔧 Camera Utilities
 - [webcamize](https://github.com/cowtoolz/webcamize) – CLI tool letting you use DSLRs, mirrorless cameras, camcorders or smartphones as Linux webcams. Configures UVC drivers and handles firmware quirks so professional cameras appear as `/dev/video*` devices.
+- [matrix-webcam](https://github.com/joschuck/matrix-webcam) – Adds Matrix-style green code rain effect to your webcam feed for video calls.
 
 ## 🧠🧰 Development Environments
 
@@ -114,6 +141,13 @@
 
 ### 💻🖥️ JavaScript Components
 - [Xterm.js](https://xtermjs.org/) – Browser-based terminal emulator powering web apps like VS Code.
+- [Day.js](https://day.js.org/) – Tiny JavaScript library providing a Moment.js-compatible API for parsing and formatting dates.
 
 ### 🌍🗣️ Natural Language Processing
+### 🔊 Audio Libraries
+- [PortAudio](https://github.com/PortAudio/portaudio) – Cross-platform library for real-time audio input and output.
 - [argos-translate](https://github.com/argosopentech/argos-translate) – Offline machine translation library written in Python.
+
+## 🎮 Games & Emulators
+- [webrcade](https://github.com/webrcade/webrcade) – Feed-driven retro gaming platform that runs classic games in the browser.
+- [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) – Accurate and portable Sega 8/16‑bit emulator.
