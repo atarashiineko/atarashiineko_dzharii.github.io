@@ -11,6 +11,7 @@
 
 ### 🔍📐 Code Navigation & Analysis
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) – Cross-platform interactive source-code explorer that indexes your C/C++, Java, Python and other projects to visualize call graphs and class hierarchies, helping you navigate and understand unfamiliar codebases without manual grep searches.
+- [include-what-you-use](https://include-what-you-use.org/) – Static analysis tool for C/C++ that suggests minimal header inclusions.
 
 ### 🔄📂 File Sync & Backup
 - [Syncthing](https://github.com/syncthing/syncthing) – Open source peer-to-peer file synchronization tool keeping folders identical across devices.
@@ -23,6 +24,7 @@
 - [ScriptKit](https://www.scriptkit.com/) – Open-source toolkit to launch scripts and automate developer workflows.
 - [AppFlowy](https://www.appflowy.com/) – Open-source workspace alternative to Notion with local data storage.
 - [espanso](https://espanso.org/) – Cross-platform text expander that replaces typed keywords with snippets.
+- [Heynote](https://heynote.com/) – Developer-focused scratchpad for quick notes with optional GitHub repo at [heyman/heynote](https://github.com/heyman/heynote).
 
 ### 🔧🔌 API Clients
 - [Yaak](https://yaak.app/) – Fast, offline-first, Git-friendly API client for REST, GraphQL, WebSocket, SSE and gRPC endpoints. Store requests as plain-text files for version control, encrypt secrets locally, and replay or share them from a desktop GUI.
@@ -31,11 +33,14 @@
 ### 🖼️📊 Diagramming & Drawing
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) – Electron-based diagrams.net app that works offline for creating flowcharts and architecture sketches.
 - [d2](https://github.com/terrastruct/d2) – Diagram scripting language that turns text files into professional diagrams.
+- [Wireflow](https://wireflow.co/) – Browser-based user flow tool for prototyping interfaces without design software.
+- [Graphviz](https://graphviz.org/) – Classic open-source graph visualization suite for rendering structured diagrams from DOT files.
 
 ### 🗄️📂 File Managers
 ### 🖥️💻 Virtualization
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS in a Docker container using KVM for near-native performance.
 - [far2l](https://github.com/elfmz/far2l) – Modernized port of the classic FAR Manager with terminal and GUI interfaces for Linux and macOS.
+- [quickemu](https://github.com/quickemu-project/quickemu) – Quickly spin up optimized Windows, macOS or Linux VMs with simple config files.
 
 ### 💾 Legacy Software Ports
 - [123elf](https://github.com/taviso/123elf) – Native Linux port of Lotus 1-2-3 spreadsheet classic.
@@ -76,6 +81,7 @@
 - [PerfView](https://github.com/microsoft/perfview) – Windows performance analysis tool with CPU and memory profiling.
 - [Speedscope](https://www.speedscope.app/) – Interactive flamegraph viewer for performance profiles.
 - [pigz](https://github.com/madler/pigz) – Parallel implementation of gzip that utilizes multiple CPU cores for faster compression.
+- [nvtop](https://github.com/Syllo/nvtop) – Terminal-based monitor displaying GPU utilization and processes across vendors.
 
 ## ☁️🛠️ Web Services & Self-Hosted Platforms
 ### 🚀🔄 Platform-as-a-Service & App Deployment
@@ -90,6 +96,7 @@
 
 - [LibreAutomate](https://github.com/qgindi/LibreAutomate) – Windows automation tool and C# scripting environment.
 ### 🧾🔄 File Conversion & Processing
+- [html2text](https://github.com/aaronsw/html2text) – Convert HTML into Markdown-formatted text from the command line.
 - [Rembg](https://github.com/danielgatis/rembg) – Command-line tool to remove image backgrounds using machine learning.
 - [UpScayl](https://github.com/upscayl/upscayl) – Free AI-powered image upscaler for Windows, macOS and Linux.
 - [BackgroundRemover](https://github.com/nadermx/backgroundremover) – Python CLI to strip backgrounds from photos and videos.
@@ -133,6 +140,10 @@
 - [IdentityServer](https://github.com/DuendeSoftware/IdentityServer) – Flexible OpenID Connect and OAuth framework for ASP.NET Core.
 - [toapi-search](https://github.com/toapi/toapi-search) – Build custom search APIs with the Toapi web scraping framework.
 - [CloudQuery](https://github.com/t9tio/cloudquery) – Turns websites into APIs via visual scraping rules.
+- [quicktype](https://app.quicktype.io/) – Generate type-safe code from JSON instantly in multiple languages.
+- [gamecontroller.js](https://github.com/alvaromontoro/gamecontroller.js/) – JavaScript library for handling gamepad input in web apps.
+- [PSReadLine](https://github.com/PowerShell/PSReadLine) – Enhanced command line editing experience for PowerShell.
+- [FTXUI](https://github.com/ArthurSonzogni/FTXUI) – C++ library for building modern terminal user interfaces with widgets.
 
 ### 🏛️📊 Transparency & Monitoring
 - [Capitol Trades](https://www.capitoltrades.com/) – Free platform tracking U.S. Congress stock transactions. Browse and filter members’ buy/sell history by party, committee or issuer, and view aggregated charts of recent trading volume to spot potential conflicts of interest.
@@ -165,6 +176,7 @@
 - [Sweet Home 3D](https://www.sweethome3d.com/) – Free interior design application for drawing house plans and arranging furniture in 3D.
 ### 🗃️🔎 Database Tools
 - [SQLite File Format Viewer](https://sqlite-internal.pages.dev/#page=10) – Web-based tool for inspecting SQLite database internals. Upload a `.sqlite` file or use a demo DB to explore page structures, B-tree layouts, freelist pages and WAL entries via clickable diagrams.
+- [chartdb](https://github.com/chartdb/chartdb) – Database diagramming tool that creates entity-relationship charts from SQL queries.
 
 ### 🗺️ Map Tools
 - [Overpass Turbo](https://overpass-turbo.eu/) – Web-based interface for crafting and running Overpass API queries on OpenStreetMap data.
@@ -190,6 +202,8 @@
 
 ### 🛠️ Programming Languages & Compilers
 - [SectorC](https://github.com/xorvoid/sectorc) – 512-byte x86 boot sector C compiler written in assembly.
+- [mold](https://github.com/rui314/mold) – High-performance linker drop-in compatible with GNU ld and gold.
+- [ccache](https://ccache.dev/) – Compiler cache that speeds up recompilation by caching previous build outputs.
 
 ## 🗄️🛢️ Database Engines
 - [DuckDB](https://github.com/duckdb/duckdb) – In-process analytical SQL database optimized for fast local queries without a server.
