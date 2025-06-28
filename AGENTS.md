@@ -61,6 +61,11 @@ Located in repository root.
 - After successful entry creation, update TODO.md by replacing “- [ ]” with “- [x]” for that filename
 - Commit changes to both software.md and TODO.md
 
-## Performance
-- Process one file at a time
-- Cache web search results for repeated URLs within run
+## Output and Update Instructions
+
+* With each run, the agent must **parse new entries** from unprocessed files listed in `TODO.md` and **append new software** records into `software.md`.
+* If a software project already exists in `software.md` (based on URL or name), **do not add a duplicate**.
+* Each newly added item must **match the tone, formatting, and quality** of existing entries in `software.md`.
+* If a suitable category for the software **does not exist**, the agent must **create a new category section** and **assign the project appropriately** using best judgment.
+* Descriptions must be **clear, self-contained, and informative** enough that users understand what the software does **without needing to follow the link**.
+* Final output must preserve the structural integrity and order of `software.md`, following markdown syntax conventions and using proper subcategorization where needed.
