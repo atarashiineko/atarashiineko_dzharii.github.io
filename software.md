@@ -12,13 +12,26 @@
 ### 🔍📐 Code Navigation & Analysis
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) – Cross-platform interactive source-code explorer that indexes your C/C++, Java, Python and other projects to visualize call graphs and class hierarchies, helping you navigate and understand unfamiliar codebases without manual grep searches.
 
+### 🔄📂 File Sync & Backup
+- [Syncthing](https://github.com/syncthing/syncthing) – Open source peer-to-peer file synchronization tool keeping folders identical across devices.
+
+### 🗓️📈 Productivity & Task Management
+- [Homechart](https://about.homechart.app/) – Self-hosted organizer for household chores, finances and inventory.
+- [Sorted³](https://www.sortedapp.com/) – Scheduling to-do list app that auto-generates daily plans.
+- [Org mode](https://orgmode.org/) – Plain-text productivity system for Emacs with outlines and agenda.
+- [Plan](https://getplan.co/) – Aggregates calendars and tasks from multiple services into one dashboard.
+
 ### 🔧🔌 API Clients
 - [Yaak](https://yaak.app/) – Fast, offline-first, Git-friendly API client for REST, GraphQL, WebSocket, SSE and gRPC endpoints. Store requests as plain-text files for version control, encrypt secrets locally, and replay or share them from a desktop GUI.
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) – Send HTTP requests directly from VS Code and inspect responses without leaving the editor.
 
 ## ☁️🛠️ Web Services & Self-Hosted Platforms
 
 ### 🚀🔄 Platform-as-a-Service & App Deployment
 - [Coolify](https://coolify.io/) – Open-source PaaS you can install on your own server under a minute. Provides one-click deployments for Docker-based applications, automated SSL, database provisioning, and built-in CI/CD pipelines as a free Heroku/Netlify/Vercel alternative.
+
+### 🌐📄 Static Site Hosting
+- [GitHub Pages](https://pages.github.com/) – Build and host static websites straight from your GitHub repository.
 
 ### 🪟🤖 OS Automation Tools
 - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/) – Web service that guides you through selecting Windows Setup settings (partitions, locale, user accounts, drivers) and outputs a complete `autounattend.xml` file to automate clean installations on Windows 10/11.
@@ -64,3 +77,11 @@
 
 ### 🧩🧵 Moldable IDEs
 - [Glamorous Toolkit](https://gtoolkit.com/) – Interactive, moldable IDE built on Pharo Smalltalk and JavaScript runtimes. Offers real-time object inspectors, context-aware micro-tools and live code modification to explore and evolve applications without stopping execution.
+
+## 🗄️🛢️ Database Engines
+- [DuckDB](https://github.com/duckdb/duckdb) – In-process analytical SQL database optimized for fast local queries without a server.
+
+## 📚🛠️ Libraries & Frameworks
+
+### 💻🖥️ JavaScript Components
+- [Xterm.js](https://xtermjs.org/) – Browser-based terminal emulator powering web apps like VS Code.
