@@ -25,6 +25,7 @@
 - [AppFlowy](https://www.appflowy.com/) – Open-source workspace alternative to Notion with local data storage.
 - [espanso](https://espanso.org/) – Cross-platform text expander that replaces typed keywords with snippets.
 - [Heynote](https://heynote.com/) – Developer-focused scratchpad for quick notes with optional GitHub repo at [heyman/heynote](https://github.com/heyman/heynote).
+- [Nullboard](https://github.com/apankrat/nullboard) – Minimalist self-hosted Kanban board that's compact and keyboard-driven.
 
 ### 🔧🔌 API Clients
 - [Yaak](https://yaak.app/) – Fast, offline-first, Git-friendly API client for REST, GraphQL, WebSocket, SSE and gRPC endpoints. Store requests as plain-text files for version control, encrypt secrets locally, and replay or share them from a desktop GUI.
@@ -37,6 +38,7 @@
 - [Graphviz](https://graphviz.org/) – Classic open-source graph visualization suite for rendering structured diagrams from DOT files.
 
 ### 🗄️📂 File Managers
+- [eza](https://github.com/eza-community/eza) – Modern replacement for `ls` with colors, git status and icons.
 ### 🖥️💻 Virtualization
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS in a Docker container using KVM for near-native performance.
 - [far2l](https://github.com/elfmz/far2l) – Modernized port of the classic FAR Manager with terminal and GUI interfaces for Linux and macOS.
@@ -74,6 +76,9 @@
 - [Miller](https://github.com/johnkerl/miller) – Command-line Swiss army knife for CSV, TSV and JSON data manipulation.
 - [fastgron](https://github.com/adamritter/fastgron) – High-performance JSON to GRON converter built with simdjson.
 - [fq](https://github.com/wader/fq) – Binary data processor combining jq, hexdump and dd functionality.
+
+### 📊 Data Visualization
+- [Perspective](https://github.com/finos/perspective) – Interactive analytics component optimized for large or streaming datasets. Create dashboards and notebooks in the browser or Python.
 
 
 ### 🗜️ Compression Tools
@@ -144,6 +149,8 @@
 - [gamecontroller.js](https://github.com/alvaromontoro/gamecontroller.js/) – JavaScript library for handling gamepad input in web apps.
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) – Enhanced command line editing experience for PowerShell.
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) – C++ library for building modern terminal user interfaces with widgets.
+- [RapidCheck](https://github.com/emil-e/rapidcheck) – Property-based testing framework for C++ inspired by QuickCheck.
+- [lazygit](https://github.com/jesseduffield/lazygit) – Terminal UI for Git commands with interactive staging and history browsing.
 
 ### 🏛️📊 Transparency & Monitoring
 - [Capitol Trades](https://www.capitoltrades.com/) – Free platform tracking U.S. Congress stock transactions. Browse and filter members’ buy/sell history by party, committee or issuer, and view aggregated charts of recent trading volume to spot potential conflicts of interest.
@@ -153,6 +160,9 @@
 - [imaginAIry](https://github.com/brycedrennan/imaginAIry) – Python tool for generating images with Stable Diffusion from the command line.
 - [Riffusion](https://www.riffusion.com/about) – Creates music by running Stable Diffusion on spectrograms; open source at [riffusion/riffusion](https://github.com/riffusion/riffusion).
 - [PrivateGPT](https://github.com/imartinez/privateGPT) – Run GPT-based question answering locally on your documents with no Internet required.
+- [LM Studio](https://lmstudio.ai/) – Desktop hub for downloading, running and managing local large language models.
+- [Onyx](https://github.com/onyx-dot-app/onyx) – Open-source Gen‑AI chat platform that indexes your team's private knowledge.
+- [Chain of Recursive Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) – Toolkit that iteratively refines LLM answers by generating alternatives and choosing the best.
 
 ## 🌐🧩 Browser Extensions & Tools
 
@@ -207,9 +217,12 @@
 
 ## 🗄️🛢️ Database Engines
 - [DuckDB](https://github.com/duckdb/duckdb) – In-process analytical SQL database optimized for fast local queries without a server.
+- [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) – SQLite extension adding CRDT-based multi-master replication for offline-friendly apps.
 
 ## 🎮 Games & Emulators
 - [webrcade](https://github.com/webrcade/webrcade) – Feed-driven retro gaming platform that runs classic games in the browser.
 - [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) – Accurate and portable Sega 8/16‑bit emulator.
 - [QuickParty.Games](https://quickparty.games/) – Collection of instant multiplayer browser party games.
 - [The Password Game](https://neal.fun/password-game/) – Puzzle where evolving password rules lead to absurd challenges.
+- [DuckStation](https://github.com/stenzek/duckstation) – High-accuracy PlayStation emulator for Windows, Linux and macOS.
+- [DoomPDF](https://github.com/ading2210/doompdf) – Doom source port that runs entirely inside a PDF file.
