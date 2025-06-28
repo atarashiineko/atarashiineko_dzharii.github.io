@@ -13,16 +13,16 @@ blog/<file.md>
 - [x] 2021-10-09-projects-and-tools.md
 - [x] 2021-10-13-favorite-vs-code-extensions.md
 - [x] 2021-11-14-links-from-my-inbox-november-2021.md
-- [ ] 2021-12-26-links-from-my-inbox-december-2021.md
-- [ ] 2022-03-04-links-from-my-inbox-march.md
-- [ ] 2022-03-19-links-from-my-inbox-march2.md
-- [ ] 2022-04-19-links-from-my-inbox-april-2022.md
-- [ ] 2022-05-21-links-from-my-inbox-may-2022.md
-- [ ] 2022-05-22-links-from-my-inbox-may-2022-part2.md
-- [ ] 2022-06-18-links-from-my-inbox-june-2022.md
-- [ ] 2022-07-22-links-from-my-inbox-july-2022.md
-- [ ] 2022-08-06-links-from-my-inbox-august-2022.md
-- [ ] 2022-09-18-links-from-my-inbox-september-2022.md
+- [x] 2021-12-26-links-from-my-inbox-december-2021.md
+- [x] 2022-03-04-links-from-my-inbox-march.md
+- [x] 2022-03-19-links-from-my-inbox-march2.md
+- [x] 2022-04-19-links-from-my-inbox-april-2022.md
+- [x] 2022-05-21-links-from-my-inbox-may-2022.md
+- [x] 2022-05-22-links-from-my-inbox-may-2022-part2.md
+- [x] 2022-06-18-links-from-my-inbox-june-2022.md
+- [x] 2022-07-22-links-from-my-inbox-july-2022.md
+- [x] 2022-08-06-links-from-my-inbox-august-2022.md
+- [x] 2022-09-18-links-from-my-inbox-september-2022.md
 - [ ] 2022-10-07-links-from-my-inbox-october-2022.md
 - [ ] 2022-11-07-links-from-my-inbox-november-2022.md
 - [ ] 2022-11-13-links-from-my-inbox.md
