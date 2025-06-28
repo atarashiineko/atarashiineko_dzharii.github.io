@@ -13,6 +13,13 @@ This agent parses TODO.md for unprocessed items, reads each referenced file, ext
 - Categorize entries under precise headings
 - Append new entries to software.md without duplications
 
+## Batches
+from TODO.md, use batches of 10 files. Make sure you are focused on the content and produce best quality output. 
+
+## software.md
+
+Located in repository root. 
+
 ## Workflow
 - Read TODO.md from repository root
 - Identify lines starting with “- [ ] ” indicating unprocessed items
@@ -57,4 +64,3 @@ This agent parses TODO.md for unprocessed items, reads each referenced file, ext
 ## Performance
 - Process one file at a time
 - Cache web search results for repeated URLs within run
-- Rate-limit external queries to avoid API throttling
