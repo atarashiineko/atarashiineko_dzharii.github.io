@@ -3,16 +3,16 @@ blog/<file.md>
 
 
 ## Files to proccess
-- [ ] 2021-07-25-lets-rock.md
-- [ ] 2021-08-03-links-from-my-inbox-august-2021.md
-- [ ] 2021-08-03-seattle.md
-- [ ] 2021-09-26-clean-my-inbox-september-2021.md
-- [ ] 2021-09-26-good-reads-2021.md
-- [ ] 2021-10-03-links-from-my-inbox-october-2021.md
-- [ ] 2021-10-09-productivity-products.md
-- [ ] 2021-10-09-projects-and-tools.md
-- [ ] 2021-10-13-favorite-vs-code-extensions.md
-- [ ] 2021-11-14-links-from-my-inbox-november-2021.md
+- [x] 2021-07-25-lets-rock.md
+- [x] 2021-08-03-links-from-my-inbox-august-2021.md
+- [x] 2021-08-03-seattle.md
+- [x] 2021-09-26-clean-my-inbox-september-2021.md
+- [x] 2021-09-26-good-reads-2021.md
+- [x] 2021-10-03-links-from-my-inbox-october-2021.md
+- [x] 2021-10-09-productivity-products.md
+- [x] 2021-10-09-projects-and-tools.md
+- [x] 2021-10-13-favorite-vs-code-extensions.md
+- [x] 2021-11-14-links-from-my-inbox-november-2021.md
 - [ ] 2021-12-26-links-from-my-inbox-december-2021.md
 - [ ] 2022-03-04-links-from-my-inbox-march.md
 - [ ] 2022-03-19-links-from-my-inbox-march2.md
